@@ -13,79 +13,79 @@ const Index = () => {
       icon: "Building2",
       title: "Строительные экспертизы",
       description: "Техническая экспертиза зданий, сооружений и строительных конструкций",
-      image: "/images/placeholder.svg"
+      image: "/placeholder.svg"
     },
     {
       icon: "MapPin",
       title: "Землеустроительные экспертизы",
       description: "Определение границ земельных участков и их правовой статус",
-      image: "/images/placeholder.svg"
+      image: "/placeholder.svg"
     },
     {
       icon: "Cable",
       title: "Экспертиза сетей",
       description: "Исследование инженерных коммуникаций и сетевой инфраструктуры",
-      image: "/images/placeholder.svg"
+      image: "/placeholder.svg"
     },
     {
       icon: "Car",
       title: "Экспертиза автомобилей",
       description: "Оценка ущерба, технического состояния транспортных средств",
-      image: "/images/placeholder.svg"
+      image: "/placeholder.svg"
     },
     {
       icon: "Calculator",
       title: "Оценочные экспертизы",
       description: "Определение рыночной стоимости имущества и материальных ценностей",
-      image: "/images/placeholder.svg"
+      image: "/placeholder.svg"
     },
     {
       icon: "Footprints",
       title: "Трасологическая экспертиза",
       description: "Исследование следов, оставленных при контакте объектов",
-      image: "/images/placeholder.svg"
+      image: "/placeholder.svg"
     },
     {
       icon: "Shirt",
       title: "Экспертиза одежды",
       description: "Оценка качества, дефектов и соответствия нормам текстильных изделий",
-      image: "/images/placeholder.svg"
+      image: "/placeholder.svg"
     },
     {
       icon: "Sofa",
       title: "Экспертиза мебели",
       description: "Определение качества и выявление производственных недостатков",
-      image: "/images/placeholder.svg"
+      image: "/placeholder.svg"
     },
     {
       icon: "Plug",
       title: "Экспертиза электробытовых товаров",
       description: "Исследование бытовой техники и электроприборов",
-      image: "/images/placeholder.svg"
+      image: "/placeholder.svg"
     },
     {
       icon: "PenTool",
       title: "Почерковедческая экспертиза",
       description: "Идентификация личности по почерку и подписи",
-      image: "/images/placeholder.svg"
+      image: "/placeholder.svg"
     },
     {
       icon: "FileSearch",
       title: "Технико-криминалистическая экспертиза",
       description: "Исследование документов на предмет подделки и изменений",
-      image: "/images/placeholder.svg"
+      image: "/placeholder.svg"
     },
     {
       icon: "FileCheck",
       title: "Рецензия судебных экспертиз",
       description: "Независимая оценка качества проведённых экспертиз",
-      image: "/images/placeholder.svg"
+      image: "/placeholder.svg"
     },
     {
       icon: "Receipt",
       title: "Бухгалтерская экспертиза",
       description: "Анализ финансовой документации и бухгалтерского учёта",
-      image: "/images/placeholder.svg"
+      image: "/placeholder.svg"
     }
   ];
 
