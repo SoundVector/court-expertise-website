@@ -13,79 +13,79 @@ const Index = () => {
       icon: "Building2",
       title: "Строительные экспертизы",
       description: "Техническая экспертиза зданий, сооружений и строительных конструкций",
-      image: "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=800&h=600&fit=crop"
+      image: "/images/building.jpg"
     },
     {
       icon: "MapPin",
       title: "Землеустроительные экспертизы",
       description: "Определение границ земельных участков и их правовой статус",
-      image: "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&h=600&fit=crop"
+      image: "/images/land.jpg"
     },
     {
       icon: "Cable",
       title: "Экспертиза сетей",
       description: "Исследование инженерных коммуникаций и сетевой инфраструктуры",
-      image: "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=800&h=600&fit=crop"
+      image: "/images/networks.jpg"
     },
     {
       icon: "Car",
       title: "Экспертиза автомобилей",
       description: "Оценка ущерба, технического состояния транспортных средств",
-      image: "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=800&h=600&fit=crop"
+      image: "/images/car.jpg"
     },
     {
       icon: "Calculator",
       title: "Оценочные экспертизы",
       description: "Определение рыночной стоимости имущества и материальных ценностей",
-      image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&h=600&fit=crop"
+      image: "/images/valuation.jpg"
     },
     {
       icon: "Footprints",
       title: "Трасологическая экспертиза",
       description: "Исследование следов, оставленных при контакте объектов",
-      image: "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=800&h=600&fit=crop"
+      image: "/images/traces.jpg"
     },
     {
       icon: "Shirt",
       title: "Экспертиза одежды",
       description: "Оценка качества, дефектов и соответствия нормам текстильных изделий",
-      image: "https://images.unsplash.com/photo-1445205170230-053b83016050?w=800&h=600&fit=crop"
+      image: "/images/clothing.jpg"
     },
     {
       icon: "Sofa",
       title: "Экспертиза мебели",
       description: "Определение качества и выявление производственных недостатков",
-      image: "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&h=600&fit=crop"
+      image: "/images/furniture.jpg"
     },
     {
       icon: "Plug",
       title: "Экспертиза электробытовых товаров",
       description: "Исследование бытовой техники и электроприборов",
-      image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop"
+      image: "/images/electronics.jpg"
     },
     {
       icon: "PenTool",
       title: "Почерковедческая экспертиза",
       description: "Идентификация личности по почерку и подписи",
-      image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800&h=600&fit=crop"
+      image: "/images/handwriting.jpg"
     },
     {
       icon: "FileSearch",
       title: "Технико-криминалистическая экспертиза",
       description: "Исследование документов на предмет подделки и изменений",
-      image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&h=600&fit=crop"
+      image: "/images/documents.jpg"
     },
     {
       icon: "FileCheck",
       title: "Рецензия судебных экспертиз",
       description: "Независимая оценка качества проведённых экспертиз",
-      image: "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?w=800&h=600&fit=crop"
+      image: "/images/documents.jpg"
     },
     {
       icon: "Receipt",
       title: "Бухгалтерская экспертиза",
       description: "Анализ финансовой документации и бухгалтерского учёта",
-      image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&h=600&fit=crop"
+      image: "/images/accounting.jpg"
     }
   ];
 
@@ -121,18 +121,22 @@ const Index = () => {
   return (
     <div className="min-h-screen bg-background relative">
       <div className="fixed inset-0 z-0 flex items-center justify-center pointer-events-none opacity-15">
-        <div className="w-[800px] h-[800px] flex items-center justify-center text-primary/5 text-9xl font-bold">
-          ПРО
-        </div>
+        <img 
+          src="/images/logo.png" 
+          alt="Watermark" 
+          className="w-[800px] h-[800px] object-contain animate-fade-in"
+        />
       </div>
       <div className="relative z-10">
       <nav className="fixed top-0 left-0 right-0 z-50 bg-primary text-primary-foreground border-b-4 border-accent animate-fade-in">
         <div className="container mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-4">
-              <div className="h-12 w-12 flex items-center justify-center bg-accent/20 rounded-lg text-accent font-bold text-sm">
-                ПРО
-              </div>
+              <img 
+                src="/images/logo.png" 
+                alt="Экспертиза ПРО" 
+                className="h-12 w-12 object-contain"
+              />
               <div className="flex flex-col">
                 <span className="text-lg font-bold tracking-tight">ООО «Экспертиза ПРО»</span>
                 <span className="text-xs opacity-90">Независимая судебная экспертиза</span>
