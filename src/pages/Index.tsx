@@ -13,79 +13,79 @@ const Index = () => {
       icon: "Building2",
       title: "Строительные экспертизы",
       description: "Техническая экспертиза зданий, сооружений и строительных конструкций",
-      image: "/placeholder.svg"
+      image: "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=800&h=600&fit=crop"
     },
     {
       icon: "MapPin",
       title: "Землеустроительные экспертизы",
       description: "Определение границ земельных участков и их правовой статус",
-      image: "/placeholder.svg"
+      image: "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&h=600&fit=crop"
     },
     {
       icon: "Cable",
       title: "Экспертиза сетей",
       description: "Исследование инженерных коммуникаций и сетевой инфраструктуры",
-      image: "/placeholder.svg"
+      image: "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=800&h=600&fit=crop"
     },
     {
       icon: "Car",
       title: "Экспертиза автомобилей",
       description: "Оценка ущерба, технического состояния транспортных средств",
-      image: "/placeholder.svg"
+      image: "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=800&h=600&fit=crop"
     },
     {
       icon: "Calculator",
       title: "Оценочные экспертизы",
       description: "Определение рыночной стоимости имущества и материальных ценностей",
-      image: "/placeholder.svg"
+      image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&h=600&fit=crop"
     },
     {
       icon: "Footprints",
       title: "Трасологическая экспертиза",
       description: "Исследование следов, оставленных при контакте объектов",
-      image: "/placeholder.svg"
+      image: "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=800&h=600&fit=crop"
     },
     {
       icon: "Shirt",
       title: "Экспертиза одежды",
       description: "Оценка качества, дефектов и соответствия нормам текстильных изделий",
-      image: "/placeholder.svg"
+      image: "https://images.unsplash.com/photo-1445205170230-053b83016050?w=800&h=600&fit=crop"
     },
     {
       icon: "Sofa",
       title: "Экспертиза мебели",
       description: "Определение качества и выявление производственных недостатков",
-      image: "/placeholder.svg"
+      image: "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&h=600&fit=crop"
     },
     {
       icon: "Plug",
       title: "Экспертиза электробытовых товаров",
       description: "Исследование бытовой техники и электроприборов",
-      image: "/placeholder.svg"
+      image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop"
     },
     {
       icon: "PenTool",
       title: "Почерковедческая экспертиза",
       description: "Идентификация личности по почерку и подписи",
-      image: "/placeholder.svg"
+      image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800&h=600&fit=crop"
     },
     {
       icon: "FileSearch",
       title: "Технико-криминалистическая экспертиза",
       description: "Исследование документов на предмет подделки и изменений",
-      image: "/placeholder.svg"
+      image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&h=600&fit=crop"
     },
     {
       icon: "FileCheck",
       title: "Рецензия судебных экспертиз",
       description: "Независимая оценка качества проведённых экспертиз",
-      image: "/placeholder.svg"
+      image: "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?w=800&h=600&fit=crop"
     },
     {
       icon: "Receipt",
       title: "Бухгалтерская экспертиза",
       description: "Анализ финансовой документации и бухгалтерского учёта",
-      image: "/placeholder.svg"
+      image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&h=600&fit=crop"
     }
   ];
 
