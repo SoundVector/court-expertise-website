@@ -130,9 +130,11 @@ const Index = () => {
         <div className="container mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-4">
-              <div className="h-12 w-12 flex items-center justify-center bg-accent rounded-lg text-white font-bold text-lg">
-                ПРО
-              </div>
+              <img 
+                src="https://cdn.poehali.dev/files/1ce7a63e-3ba1-4c2a-990d-6b82c5ae3d99.png" 
+                alt="Экспертиза ПРО" 
+                className="h-12 w-12 object-contain"
+              />
               <div className="flex flex-col">
                 <span className="text-lg font-bold tracking-tight">ООО «Экспертиза ПРО»</span>
                 <span className="text-xs opacity-90">Независимая судебная экспертиза</span>
