@@ -13,79 +13,79 @@ const Index = () => {
       icon: "Building2",
       title: "Строительные экспертизы",
       description: "Техническая экспертиза зданий, сооружений и строительных конструкций",
-      image: "https://cdn.poehali.dev/projects/c5c43c1d-169c-4cb6-88ec-4d80150cf71e/files/461eac34-49bc-48b0-8603-4ba3e1196d18.jpg"
+      image: "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=800&h=600&fit=crop"
     },
     {
       icon: "MapPin",
       title: "Землеустроительные экспертизы",
       description: "Определение границ земельных участков и их правовой статус",
-      image: "https://cdn.poehali.dev/projects/c5c43c1d-169c-4cb6-88ec-4d80150cf71e/files/a2273e3c-daa5-4c8c-8696-3ba2d513bb59.jpg"
+      image: "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&h=600&fit=crop"
     },
     {
       icon: "Cable",
       title: "Экспертиза сетей",
       description: "Исследование инженерных коммуникаций и сетевой инфраструктуры",
-      image: "https://cdn.poehali.dev/projects/c5c43c1d-169c-4cb6-88ec-4d80150cf71e/files/55b0a3d9-7603-46ed-afca-1a7684f33d9b.jpg"
+      image: "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=800&h=600&fit=crop"
     },
     {
       icon: "Car",
       title: "Экспертиза автомобилей",
       description: "Оценка ущерба, технического состояния транспортных средств",
-      image: "https://cdn.poehali.dev/projects/c5c43c1d-169c-4cb6-88ec-4d80150cf71e/files/7660d241-9780-4cf1-94b2-96e172310ffe.jpg"
+      image: "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=800&h=600&fit=crop"
     },
     {
       icon: "Calculator",
       title: "Оценочные экспертизы",
       description: "Определение рыночной стоимости имущества и материальных ценностей",
-      image: "https://cdn.poehali.dev/projects/c5c43c1d-169c-4cb6-88ec-4d80150cf71e/files/5b23c802-2102-4fe2-be6e-4ef36deefca9.jpg"
+      image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&h=600&fit=crop"
     },
     {
       icon: "Footprints",
       title: "Трасологическая экспертиза",
       description: "Исследование следов, оставленных при контакте объектов",
-      image: "https://cdn.poehali.dev/projects/c5c43c1d-169c-4cb6-88ec-4d80150cf71e/files/d0df9a51-b992-4516-a60d-b993d41c5a93.jpg"
+      image: "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=800&h=600&fit=crop"
     },
     {
       icon: "Shirt",
       title: "Экспертиза одежды",
       description: "Оценка качества, дефектов и соответствия нормам текстильных изделий",
-      image: "https://cdn.poehali.dev/projects/c5c43c1d-169c-4cb6-88ec-4d80150cf71e/files/b965c3ee-46f4-4661-8891-1a9fdf4433e0.jpg"
+      image: "https://images.unsplash.com/photo-1445205170230-053b83016050?w=800&h=600&fit=crop"
     },
     {
       icon: "Sofa",
       title: "Экспертиза мебели",
       description: "Определение качества и выявление производственных недостатков",
-      image: "https://cdn.poehali.dev/projects/c5c43c1d-169c-4cb6-88ec-4d80150cf71e/files/fb7703d0-6eec-465c-8ffc-e56feb7ed5db.jpg"
+      image: "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&h=600&fit=crop"
     },
     {
       icon: "Plug",
       title: "Экспертиза электробытовых товаров",
       description: "Исследование бытовой техники и электроприборов",
-      image: "https://cdn.poehali.dev/projects/c5c43c1d-169c-4cb6-88ec-4d80150cf71e/files/1de857ae-ca13-430c-adc5-35efe9fbb3fe.jpg"
+      image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop"
     },
     {
       icon: "PenTool",
       title: "Почерковедческая экспертиза",
       description: "Идентификация личности по почерку и подписи",
-      image: "https://cdn.poehali.dev/projects/c5c43c1d-169c-4cb6-88ec-4d80150cf71e/files/4a8b6dfc-0058-4cf2-9313-0173a6b5a910.jpg"
+      image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800&h=600&fit=crop"
     },
     {
       icon: "FileSearch",
       title: "Технико-криминалистическая экспертиза",
       description: "Исследование документов на предмет подделки и изменений",
-      image: "https://cdn.poehali.dev/projects/c5c43c1d-169c-4cb6-88ec-4d80150cf71e/files/179288d7-f4e6-4bea-89a8-22e15d1ada3a.jpg"
+      image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&h=600&fit=crop"
     },
     {
       icon: "FileCheck",
       title: "Рецензия судебных экспертиз",
       description: "Независимая оценка качества проведённых экспертиз",
-      image: "https://cdn.poehali.dev/projects/c5c43c1d-169c-4cb6-88ec-4d80150cf71e/files/179288d7-f4e6-4bea-89a8-22e15d1ada3a.jpg"
+      image: "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?w=800&h=600&fit=crop"
     },
     {
       icon: "Receipt",
       title: "Бухгалтерская экспертиза",
       description: "Анализ финансовой документации и бухгалтерского учёта",
-      image: "https://cdn.poehali.dev/projects/c5c43c1d-169c-4cb6-88ec-4d80150cf71e/files/8cddc8b5-32cb-4901-b849-88b8b44d6f34.jpg"
+      image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&h=600&fit=crop"
     }
   ];
 
@@ -121,22 +121,18 @@ const Index = () => {
   return (
     <div className="min-h-screen bg-background relative">
       <div className="fixed inset-0 z-0 flex items-center justify-center pointer-events-none opacity-15">
-        <img 
-          src="https://cdn.poehali.dev/files/1ce7a63e-3ba1-4c2a-990d-6b82c5ae3d99.png" 
-          alt="Watermark" 
-          className="w-[800px] h-[800px] object-contain animate-fade-in"
-        />
+        <div className="w-[800px] h-[800px] flex items-center justify-center text-primary/5 text-9xl font-bold">
+          ПРО
+        </div>
       </div>
       <div className="relative z-10">
       <nav className="fixed top-0 left-0 right-0 z-50 bg-primary text-primary-foreground border-b-4 border-accent animate-fade-in">
         <div className="container mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-4">
-              <img 
-                src="https://cdn.poehali.dev/files/1ce7a63e-3ba1-4c2a-990d-6b82c5ae3d99.png" 
-                alt="Экспертиза ПРО" 
-                className="h-12 w-12 object-contain"
-              />
+              <div className="h-12 w-12 flex items-center justify-center bg-accent/20 rounded-lg text-accent font-bold text-sm">
+                ПРО
+              </div>
               <div className="flex flex-col">
                 <span className="text-lg font-bold tracking-tight">ООО «Экспертиза ПРО»</span>
                 <span className="text-xs opacity-90">Независимая судебная экспертиза</span>
