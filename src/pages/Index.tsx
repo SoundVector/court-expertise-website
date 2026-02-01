@@ -121,22 +121,18 @@ const Index = () => {
   return (
     <div className="min-h-screen bg-background relative">
       <div className="fixed inset-0 z-0 flex items-center justify-center pointer-events-none opacity-15">
-        <img 
-          src="/images/logo.png" 
-          alt="Watermark" 
-          className="w-[800px] h-[800px] object-contain animate-fade-in"
-        />
+        <div className="text-primary/5 text-[200px] font-bold">
+          ПРО
+        </div>
       </div>
       <div className="relative z-10">
       <nav className="fixed top-0 left-0 right-0 z-50 bg-primary text-primary-foreground border-b-4 border-accent animate-fade-in">
         <div className="container mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-4">
-              <img 
-                src="/images/logo.png" 
-                alt="Экспертиза ПРО" 
-                className="h-12 w-12 object-contain"
-              />
+              <div className="h-12 w-12 flex items-center justify-center bg-accent rounded-lg text-white font-bold text-lg">
+                ПРО
+              </div>
               <div className="flex flex-col">
                 <span className="text-lg font-bold tracking-tight">ООО «Экспертиза ПРО»</span>
                 <span className="text-xs opacity-90">Независимая судебная экспертиза</span>
